@@ -20,5 +20,5 @@ My break was obviously about over and I had to get back to the desk. I composed 
 
 Friends- GOD LOVES YOU, and He longs to rescue you. He love’s us more than we can ever fathom or ever comprehend. I am not sure why I felt to share this story- but my prayer is that someone can be blessed by it. That you’ll know, regardless of how empty you may feel in this season- Jesus cares, he understands, and He wants you! He wants to rescue you, to bless you, and to set you free. Jesus said, So don't be afraid; you are worth more than many sparrows (Matthew 10:31). 
 
-“God wants to use you. But first, He wants to rescue you, if that’s what you need right now. Maybe He’s whispering in your ear, “I have you. I’m holding you. I won’t ever let you go.” – Ginney Allen.
+“God wants to use you. But first, He wants to rescue you, if that’s what you need right now. Maybe He’s whispering in your ear, “I have you. I’m holding you. I won’t ever let you go.” – Ginny Allen.
 
