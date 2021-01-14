@@ -1,4 +1,4 @@
-title: Hello, world! I'm the fat butt cat!
+title: Many Sparrows
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,17 +9,17 @@ url: "fatbuttcat.github.io" # the base hostname & protocol for your site, e.g. h
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Fat Butt Cat # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a ball of fluff that loves to chase balls of fluff. # add description
+author: Brittany Weiland # add your name
+author-img: profile.jpg # add your photo
+about-author: Child of the King. Wife. Friend. Nurse.  # add description
 social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: fattbuttcat # add your Github handle
+social-facebook: brittany.harvey.372# add your Facebook handle
+social-github:  # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
 # Disqus
-discus-identifier: fatbuttcat # add your discus identifier
+discus-identifier:  # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
