@@ -18,7 +18,7 @@ I was completely shocked and so overwhelmed. For the first time in months I felt
 
 My break was obviously about over and I had to get back to the desk. I composed myself and walked back to the university. When I got back to my desk there was a book laid there with a little pink sticky note on the cover which said “for the receptionist who sits here”. The book was titled “God’s love Song” by Ginny Allen. AND I KID YOU NOT, the front cover is a robin sitting on a branch (seriously- go google the book)! 
 
-Friends- GOD LOVES YOU, and He longs to rescue you. He love’s us more than we can ever fathom or ever comprehend. I am not sure why I felt to share this story- but my prayer is that someone can be blessed thru it. That you’ll know, regardless of how empty you may feel in this season- Jesus cares, he understands, and He wants you! He wants to rescue you, to bless you, and to set you free. Jesus said, So don't be afraid; you are worth more than many sparrows (Matthew 10:31). 
+Friends- GOD LOVES YOU, and He longs to rescue you. He love’s us more than we can ever fathom or ever comprehend. I am not sure why I felt to share this story- but my prayer is that someone can be blessed by it. That you’ll know, regardless of how empty you may feel in this season- Jesus cares, he understands, and He wants you! He wants to rescue you, to bless you, and to set you free. Jesus said, So don't be afraid; you are worth more than many sparrows (Matthew 10:31). 
 
 “God wants to use you. But first, He wants to rescue you, if that’s what you need right now. Maybe He’s whispering in your ear, “I have you. I’m holding you. I won’t ever let you go.” – Ginney Allen.
 
