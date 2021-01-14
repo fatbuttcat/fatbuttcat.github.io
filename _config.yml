@@ -12,11 +12,11 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Brittany Weiland # add your name
 author-img: profile.jpg # add your photo
 about-author: Child of the King. Wife. Friend. Nurse.  # add description
-social-twitter: # add your Twitter handle
+social-twitter: . # add your Twitter handle
 social-facebook: brittany.harvey.372# add your Facebook handle
 social-github:  # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: . # add your Email address
 
 # Disqus
 discus-identifier:  # add your discus identifier
