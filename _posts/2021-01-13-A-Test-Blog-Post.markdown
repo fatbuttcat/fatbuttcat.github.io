@@ -3,7 +3,7 @@ layout: post
 title: A Test Blog Post
 date: 2021-01-13 00:00:00 -0500
 description: Having a lot of fun making a website! # Add post description (optional)
-img: software.jpg # Add image post (optional)
+img: sparrow-unsplash.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
