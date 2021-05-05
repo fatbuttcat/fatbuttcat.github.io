@@ -3,13 +3,12 @@ layout: post
 title: Happy Nurses Week 2021! 
 date: 2021-05-05 00:00:00 -0500
 description: Celebrating Nurses
-img: steth-unsplash1.jpg # Add image post (optional)
+img: # steth-unsplash1.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
-opsjopsjgopsjposjeosjgpgjp
+![Stethoscope](/assets/img/steth-unsplash1.jpg)
 
-
-
+blah
 
 <p align="center">
 The Calling of Florence<br>
