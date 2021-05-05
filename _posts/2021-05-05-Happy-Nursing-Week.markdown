@@ -11,8 +11,8 @@ opsjopsjgopsjposjeosjgpgjp
 
 
 
-
-*The Calling of Florence
+<p align="center">
+The Calling of Florence
 
 I felt a calling from above to care for those in need
 His divine voice spoke to me and brought me to my knees.
@@ -37,4 +37,4 @@ I am thankful for my calling and all the work that I have done
 
 But, I know, it has only truly just begun!
 There are so many others that need our loving care,
-What a privilege to be a nurse- our calling truly is so rare.*
+What a privilege to be a nurse- our calling truly is so rare.</p>
