@@ -8,7 +8,25 @@ tags: [Productivity, Software] # add tag
 ---
 ![Stethoscope](/assets/img/steth-unsplash1.jpg)
 
-blah
+What a crazy unusual time it has been! The world as we know it literally has turned upside down due to COVID-19. 
+This pandemic has changed our everyday lives in more way than I can even express. From not being able to visit our 
+families, unable to hug and kiss grandparents living in long term care homes, kids unable to play with their friends,
+and the list goes on and on. 
+
+Nurses have been at the frontlines of this battle fighting this exhasuting virus every single day. We show up to work, many of
+us in fear, praying that we do not bring this virus home to our loved ones. Nurses have worked tirelessly and courageously to provide
+patients with the hightest quality of care despite all the struggles that COVID-19 beings. We have held the hands of many sick patients 
+who were unable to have physical contact with their loved onces due to this illness. 
+
+As Nursing Week 2021 is coming upon us, I wanted to dedicate this post to ALL my fellow Nurses. I feel so honoured to be apart
+of this beautiful profession. As exhausting as it can sometimes be, I am so blessed to be able to care for so many individuals
+who need our love and light right now. To Nurses everywhere - THANK YOU for all that you have been doing for your parients and the many
+sacrifices that you have made for your profession. You are all angels on this earth. 
+
+Below is a poem I wrote about the Calling of Florene Nightingale and her journey into Nursing. I wanted to dedicate it to all our 
+nurses who listneted to their calling to be a Nurse. May this bring you some joy! HAPPY NURSES WEEK!! XO
+
+
 
 <p align="center">
 The Calling of Florence<br>
