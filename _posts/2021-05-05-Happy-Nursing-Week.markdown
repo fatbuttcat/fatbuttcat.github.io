@@ -3,10 +3,10 @@ layout: post
 title: Happy Nurses Week 2021! 
 date: 2021-05-05 00:00:00 -0500
 description: Celebrating Nurses
-img: # steth-unsplash1.jpg # Add image post (optional)
+img: steth-unsplash1.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
-![Stethoscope](/assets/img/steth-unsplash1.jpg)
+
 
 What a crazy time it has been! The world as we know it literally has turned upside down due to COVID-19. 
 This pandemic has changed our everyday lives in more ways than I can even express. From not being able to visit our 
