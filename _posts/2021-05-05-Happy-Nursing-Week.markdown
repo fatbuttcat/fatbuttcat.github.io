@@ -16,7 +16,7 @@ and the list goes on and on.
 Nurses have been at the frontlines of this exhausting battle fighting this virus every single day. We show up to work, many of
 us in fear, praying that we do not bring this virus home to our loved ones. Nurses have worked tirelessly and courageously to provide
 patients with the hightest quality of care despite all the struggles that COVID-19 beings. We have held the hands of many sick patients 
-who were unable to have physical contact with their loved onces due to this illness. 
+who were unable to have physical contact with their loved ones due to this illness. 
 
 As Nursing Week 2021 approaches, I wanted to dedicate this post to ALL my fellow Nurses. I am so honoured to be apart
 of this beautiful profession. As draining as it can sometimes be, I am blessed to be able to care for so many individuals
